@@ -12,3 +12,4 @@
 - Quan Hongchan
 - Shohei Ohtani
 - Usain Bolt
+- Yasuhito Endo
